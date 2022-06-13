@@ -1,1 +1,21 @@
-/* styles go here */
+fieldset {
+  margin-bottom: 20px;
+}
+
+.formField {
+  display: block;
+  padding-top: 10px;
+}
+
+.first {
+  padding-top: 0;
+}
+
+.brand {
+  display: inline;
+  border: 1px solid black;
+}
+
+button {
+  margin-bottom: 100px;
+}
