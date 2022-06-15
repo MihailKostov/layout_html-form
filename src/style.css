@@ -10,12 +10,3 @@ fieldset {
 .first {
   padding-top: 0;
 }
-
-.brand {
-  display: inline;
-  border: 1px solid black;
-}
-
-button {
-  margin-bottom: 100px;
-}
